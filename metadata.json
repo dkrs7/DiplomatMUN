@@ -1,0 +1,6 @@
+{
+  "name": "DiplomatAI",
+  "description": "Professional Model United Nations (MUN) debate chamber simulator featuring AI Chairperson and country delegates, live speech timer, parliamentary procedure, and delegate ratings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
